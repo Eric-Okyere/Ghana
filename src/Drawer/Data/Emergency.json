@@ -1,0 +1,19 @@
+[{
+   
+    "name":"Ambulance",
+    "code":"193"
+},
+{
+    "name":"Fire Service",
+    "code":"192"
+},
+{
+    "name":"Police",
+    "code":"191"
+},
+{
+    "name":"Check sim registration",
+    "code":"*400%23"
+}
+
+]

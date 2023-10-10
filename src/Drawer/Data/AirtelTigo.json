@@ -1,0 +1,52 @@
+[
+    {
+        "name":"AirtelTigo Money",
+        "code":"*170%23"
+    },
+    {
+        "name":"Airtime balance",
+        "code":"*124%23"
+    },
+    {
+        "name":"Buy Airtime",
+        "code":"*110%23"
+    },
+    {
+        "name":"Bundle Balance",
+        "code":"*504%23"
+    },
+    {
+        "name":"Buy bundle",
+        "code":"**111%23"
+    },
+    {
+       
+        "name":"Call Center",
+        "code":"100"
+    
+    },
+    {
+        "name":"My Contact",
+        "code":"**703%23"
+    
+    },
+    {
+        "name":"Borrow Airtime Tigo",
+        "code":"*588%23"
+    },
+    {
+        "name":"Borrow Airtime Airtel",
+        "code":"*554%23"
+    },
+    {
+        "name":"Borrow data Tigo",
+        "code":"*589%23"
+    },
+    {
+        "name":"Borrow data Airtel",
+        "code":"*554%23"
+    }
+    
+ 
+    
+    ]

@@ -1,0 +1,44 @@
+[
+{
+    "name":"Vodafone Cash",
+    "code":"*110%23"
+},
+{
+    "name":"Airtime balance",
+    "code":"*124%23"
+},
+{
+    "name":"Buy Airtime",
+    "code":"*110%23"
+},
+{
+    "name":"Bundle Balance",
+    "code":"*700*2%23"
+},
+{
+    "name":"Buy bundle",
+    "code":"*700*1%23"
+},
+
+{
+    "name":"My Contact",
+    "code":"*127%23"
+
+},
+{
+    "name":"Borrow Credit",
+    "code":"*700*8%23"
+},
+{
+   
+    "name":"Call Center",
+    "code":"100"
+
+},
+{
+    "name":"Made for me",
+    "code":"*530%23"
+}
+
+]
+

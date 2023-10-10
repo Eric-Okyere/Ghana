@@ -1,0 +1,67 @@
+[
+   {
+       "name":"MoMo",
+       "code":"*170%23"
+   },
+   {
+       "name":"Airtime balance",
+       "code":"*124%23"
+   },
+   {
+       "name":"Buy Airtime",
+       "code":"*110%23"
+   },
+   {
+       "name":"Bundle Balance",
+       "code":"*700*2%23"
+   },
+   {
+       "name":"Buy bundle",
+       "code":"*138%23"
+   },
+   {
+      
+       "name":"Call Center",
+       "code":"100"
+   
+   },
+   {
+       "name":"My Contact",
+       "code":"*156%23"
+   
+   },
+   {
+       "name":"Borrow Credit",
+       "code":"*506%23"
+   },
+   
+   {
+       "name":"Just for me",
+       "code":"*141%23"
+   },
+   {
+       "name":"Nkomodε",
+       "code":"*550%23"
+   },
+   {
+       "name":"Pay For me",
+       "code":"154"
+   },
+   {
+       "name":"Report MoMo Fraud",
+       "code":"154"
+   },
+   {
+       "name":"Share credit",
+       "code":"*198%23"
+   },
+   {
+       "name":"Voicemail sending",
+       "code":"108"
+   },
+   {
+       "name":"Voicemail receiving",
+       "code":"109"
+   }
+   
+   ]
